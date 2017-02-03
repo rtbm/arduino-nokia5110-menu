@@ -2,5 +2,5 @@
 
 ## LCD and wiring: https://www.sparkfun.com/products/10168
 
-[Pic](/pic.jpg)
+![Pic](/pic.jpg)
 
